@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d8c1055-9c98-45e5-aeb2-3a6696cd9ba2": {
+      "ProjectGuid": "4d8c1055-9c98-45e5-aeb2-3a6696cd9ba2",
+      "DisplayName": "ProgramUI",
+      "ColorIndex": 0
+    },
+    "0819513e-9a37-40cc-b91f-6d433558c270": {
+      "ProjectGuid": "0819513e-9a37-40cc-b91f-6d433558c270",
+      "DisplayName": "DeveloperPOCO",
+      "ColorIndex": 1
+    },
+    "cb5fdc7f-9b34-4b22-a19e-f8701577d82d": {
+      "ProjectGuid": "cb5fdc7f-9b34-4b22-a19e-f8701577d82d",
+      "DisplayName": "DevTeamPOCO",
+      "ColorIndex": 2
+    },
+    "6e18ba02-6ad7-4a73-b823-ebc77ac1ee5c": {
+      "ProjectGuid": "6e18ba02-6ad7-4a73-b823-ebc77ac1ee5c",
+      "DisplayName": "DeveloperRepo",
+      "ColorIndex": 3
+    },
+    "96dfa2b6-8b6b-4f06-820d-a41fd531a886": {
+      "ProjectGuid": "96dfa2b6-8b6b-4f06-820d-a41fd531a886",
+      "DisplayName": "DevTeamRepo",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
